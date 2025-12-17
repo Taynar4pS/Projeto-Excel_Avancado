@@ -43,9 +43,9 @@ O curso teve duração total de aproximadamente 20 horas, com aulas teóricas e 
 
 ## 📊 Projetos Desenvolvidos
 
-- **Projeto 1:** Limpeza e organização de base de dados  
-- **Projeto 2:** Análise de indicadores e criação de métricas  
-- **Projeto 3:** Construção de dashboard interativo para visualização de resultados  
+- **Projeto 1:** Limpeza, organização de base de dados de vendas e construção de dashboard interativo para visualização de resultados.
+- **Projeto 2:** Limpeza, organização de base de dados de vendas e construção de dashboard interativo para visualização de resultados.  
+- 
 
 *(Os arquivos e dashboards de cada projeto podem ser encontrados neste repositório.)*
 
