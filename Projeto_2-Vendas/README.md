@@ -19,17 +19,14 @@ O dashboard foi desenvolvido para ser intuitivo, permitindo que qualquer usuári
 ### Visão Geral
 ![Dashboard](Imagens/dashboard-vendas.png)
 
-### Detalhes por Grupo de Produtos
-![Grupo de Produtos](Imagens/Planilha_de_vendas-Grupo_de_produtos.png)
-
-### Detalhes por Linha de Produtos
-![Linha de Produtos](Imagens/vendas-Linhas_de_produtos.png)
-
 ### Detalhes por Vendedor
-![Vendedores](Imagens/vendas-vendedores.png)
+![Vendedores](Imagens/vendas_vendedores.png)
 
-### Detalhes por Equipe de Vendas
-![Equipe de Vendas](Imagens/vendas-equipe_de_vendas.png)
+### Detalhes de vendas por Supervisor
+![Equipe de Vendas](Imagens/vendas_supervisores.png)
+
+### Detalhes de vendas por Estado
+![Equipe de Vendas](Imagens/vendas_estado.png)
 
 ---
 
